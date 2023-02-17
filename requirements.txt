@@ -1,8 +1,13 @@
 numpy
-torch>=1.1
 numba
 tensorboardX
 easydict
 pyyaml
 scikit-image
 tqdm
+torch==1.8.1+cu111
+torchaudio==0.8.1
+torchvision==0.9.1+cu111
+spconv-cu113==2.3.3
+
+
